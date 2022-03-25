@@ -91,3 +91,9 @@ h2 ,h3 {
 .vector-4 {
     align-self: baseline;
 }
+
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
