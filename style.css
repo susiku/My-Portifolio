@@ -1,0 +1,93 @@
+
+body {
+  background: url(images/Base.svg) no-repeat;
+  background-size: cover;
+ }
+
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  
+ }
+
+ h1 {
+  color:#F55800;
+  font-family:'roboto';
+  font-size: 20px;
+  align-self: center;
+
+}
+
+h2 ,h3 { 
+  color: white;
+  align-self: center;
+
+  }
+
+
+/* Style all font awesome icons */
+
+.fa {
+  flex-direction:column;
+  flex-wrap: wrap-reverse;
+  padding: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  margin: 10px;
+  text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+
+}
+
+/* github */
+.fa-github {
+  background: #3B5998;
+  color: white;
+}
+
+/* Linkedin */
+.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+  
+}
+
+.vector-image { 
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-end;
+
+} 
+
+.vector-1 {
+ align-items: flex-end;
+}
+
+.vector-2 {
+  align-self: flex-end;
+}
+
+.vector-3 {
+  align-content: flex-start;
+}
+
+.vector-4 {
+    align-self: baseline;
+}
