@@ -3,8 +3,8 @@
 # Project Name
  My Portifolio
 
-> Description the project.
- The project intended to use flexbox
+ Description the project.
+ This project uses vectors from figma template which are styled with css flexbox
 
 
 ## Built With
