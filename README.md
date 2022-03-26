@@ -9,12 +9,16 @@
 ## Built With
 
 - Major languages
+
   html 
   css
 - Frameworks
+
   github
 - Technologies
+
  linters
+ figma templates
 
 
 
