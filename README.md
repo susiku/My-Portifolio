@@ -3,7 +3,6 @@
 # Project Name
  My Portifolio
 
- Description the project.
  This project uses vectors from figma template which are styled with css flexbox
 
 
